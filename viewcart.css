@@ -48,9 +48,9 @@ a:hover {
   background-color: #45a049;
 }
 .button-container {
-  display: flex; /* Kích hoạt flexbox */
-  justify-content: center; /* Căn giữa theo chiều ngang */
-  gap: 20px; /* Tạo khoảng cách giữa các nút */
+  display: flex;
+  justify-content: center;
+  gap: 20px;
   margin-top: 20px;
 }
 a {
@@ -64,5 +64,5 @@ a {
   left: 641px;
 }
 a:hover {
-  background-color: #45a049; /* Hiệu ứng hover */
+  background-color: #45a049;
 }

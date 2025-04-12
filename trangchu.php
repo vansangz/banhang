@@ -13,8 +13,7 @@
     <header>
         <h1>Sang Store</h1>
         <input type="text" id="search" placeholder="Tìm kiếm sản phẩm..." />
-        <a id="cart-btn" href="viewcart.php" >Giỏ hàng</a>
-        
+        <a id="cart-btn" href="viewcart.php" >Giỏ hàng</a>      
         <?php include 'check_admin.php'; ?>
         <a id="cart-btn" href="logout.php" >Đăng xuất</a>
     </header>
@@ -86,6 +85,7 @@
 
             </form>
         </div>
+        
     </main>
 
     
